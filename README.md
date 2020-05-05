@@ -2,7 +2,7 @@
 Certificates from All the courses I've taken across various MOOC (Massive Open Online Courses) sites like 
 - Microsoft Learn (https://docs.microsoft.com/en-us/learn/)
 - Open EDX (https://open.edx.org/)
-- Google Digital Unlocked (https://learndigital.withgoogle.com/digitalgarage)
+- Google Digital Unlocked (https://learndigital.withgoogle.com/digitalunlocked)
 - Coursera (https://www.coursera.org/)
 - EDX (https://www.edx.org/)
 - PluralSight (https://www.pluralsight.com/)
@@ -13,3 +13,9 @@ Certificates from All the courses I've taken across various MOOC (Massive Open O
 - LinkedIn Learning (https://www.linkedin.com/learning/)
 - UIPath Academy (https://academy.uipath.com)
 - Automation Anywhere University (https://university.automationanywhere.com/)
+- SAP Open (https://open.sap.com/courses)
+- Cognitive Class (https://cognitiveclass.ai/learn)
+- Udemy (https://www.udemy.com/) 
+- Swayam Portal (https://swayam.gov.in/)
+- National Digital Library (https://ndl.iitkgp.ac.in/)
+- NISM (https://www.nism.ac.in/certification/)

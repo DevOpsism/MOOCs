@@ -19,3 +19,5 @@ Certificates from All the courses I've taken across various MOOC (Massive Open O
 - Swayam Portal (https://swayam.gov.in/)
 - National Digital Library (https://ndl.iitkgp.ac.in/)
 - NISM (https://www.nism.ac.in/certification/)
+- DuoLingo (https://www.duolingo.com/learn)
+- Oracle University (https://learn.oracle.com/ols)
